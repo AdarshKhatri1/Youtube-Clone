@@ -1,3 +1,4 @@
+***My clone Youtube website - (https://youtube-clone-adarshkhatri.netlify.app)***
 # Youtube Clone
 ### solo Project
 YouTube is an American online video sharing and social media platform owned by Google. It was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim. It is the second most visited website, right after Google itself.
@@ -19,13 +20,13 @@ YouTube is an American online video sharing and social media platform owned by G
 # Images
 
 ### Home Page
-![image](https://github.com/robinroy448/Youtube-Clone/blob/main/Ss/Home%20Page.png)
+![image](https://github.com/AdarshKhatri1/Youtube-Clone/blob/master/Ss/Home%20Page.png?raw=true)
 
 ### Search suggestion
-![image](https://github.com/robinroy448/Youtube-Clone/blob/main/Ss/Suggestions.png)
+![image](https://github.com/AdarshKhatri1/Youtube-Clone/blob/master/Ss/Suggestions.png?raw=true)
 
 ### Search Result
-![image](https://github.com/robinroy448/Youtube-Clone/blob/main/Ss/Search%20Result.png)
+![image](https://github.com/AdarshKhatri1/Youtube-Clone/blob/master/Ss/Search%20Result.png?raw=true)
 
 ### Search Result
-![image](https://github.com/robinroy448/Youtube-Clone/blob/main/Ss/Video%20Page.png)
+![image](https://github.com/AdarshKhatri1/Youtube-Clone/blob/master/Ss/Video%20Page.png?raw=true)
